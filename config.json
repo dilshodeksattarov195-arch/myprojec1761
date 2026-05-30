@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersonnect",
+        "uuid": 15458058,
+        "checksum": "ki0d23"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
